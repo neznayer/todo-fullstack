@@ -1,6 +1,6 @@
 <div>
 	<form action="" method="">
-		<input type="hidden" name="done" id="" value="" />
+		<input type="hidden" name="done" id="" />
 		<button aria-label="Mark done / not done">Done/Not Done</button>
 	</form>
 
@@ -10,6 +10,6 @@
 	</form>
 
 	<form action="" method="">
-		<button arial-label="Delete this todo">Delete</button>
+		<button aria-label="Delete this todo">Delete</button>
 	</form>
 </div>

@@ -10,8 +10,9 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		files: {
-			lib: "./src/lib"
-		}
+			lib: './src/lib'
+		},
+		serviceWorker: { register: false }
 	}
 };
 
